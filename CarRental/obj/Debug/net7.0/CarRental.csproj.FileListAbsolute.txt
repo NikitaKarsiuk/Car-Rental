@@ -1,0 +1,153 @@
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\valen\source\repos\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\scopedcss\projectbundle\CarRental.bundle.scp.css
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll
+C:\Users\valen\source\repos\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.Up2Date
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\appsettings.Development.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\appsettings.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.runtime.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.staticwebassets.endpoints.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.exe
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.deps.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.runtimeconfig.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\CarRental.pdb
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Azure.Core.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Azure.Identity.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Humanizer.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.CodeDom.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Memory.Data.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.AssemblyReference.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfoInputs.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.AssemblyInfo.cs
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.CoreCompileInputs.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.MvcApplicationPartsAssemblyInfo.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.RazorAssemblyInfo.cs
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\scopedcss\bundle\CarRental.styles.css
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\scopedcss\projectbundle\CarRental.bundle.scp.css
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.development.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.build.CarRental.props
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CarRental.props
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CarRental.props
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\staticwebassets.pack.json
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.csproj.Up2Date
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\refint\CarRental.dll
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.pdb
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\CarRental.genruntimeconfig.cache
+E:\!сессия ВЕСНА 2025\СПП_Курсовая\CarRental\CarRental\obj\Debug\net7.0\ref\CarRental.dll

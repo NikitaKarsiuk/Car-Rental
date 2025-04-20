@@ -1,0 +1,114 @@
+﻿@model CarRental.ViewModels.AdminStatsViewModel
+@{
+    ViewData["Title"] = "Панель администратора";
+}
+
+<div class="container">
+    <h2 class="mb-4">@ViewData["Title"]</h2>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Управление пользователями</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Полный контроль над учетными записями пользователей:</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item">Просмотр всех пользователей</li>
+                        <li class="list-group-item">Создание новых учетных записей</li>
+                        <li class="list-group-item">Редактирование данных и прав доступа</li>
+                        <li class="list-group-item">Удаление пользователей</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Users" class="btn btn-primary">Перейти к пользователям</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">Управление автомобилями</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Управление автопарком компании:</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item">Добавление новых автомобилей</li>
+                        <li class="list-group-item">Редактирование характеристик</li>
+                        <li class="list-group-item">Удаление автомобилей</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Cars" class="btn btn-success">Перейти к автомобилям</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-header bg-info text-white">
+                    <h5 class="mb-0">Управление заказами</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Контроль всех арендных операций:</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item">Просмотр всех заказов</li>
+                        <li class="list-group-item">Подтверждение бронирований</li>
+                        <li class="list-group-item">Отмена заказов</li>
+                        <li class="list-group-item">Удаление записей</li>
+                    </ul>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Orders" class="btn btn-info">Перейти к заказам</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Пользователи</h5>
+                    <h3 class="text-primary">@Model.UserCount</h3>
+                    <p class="card-text">зарегистрировано в системе</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Автомобили</h5>
+                    <h3 class="text-success">@Model.CarCount</h3>
+                    <p class="card-text">доступно для аренды</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Заказы</h5>
+                    <h3 class="text-info">@Model.OrderCount</h3>
+                    <p class="card-text">оформлено всего</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+
+    .list-group-item {
+        padding: 0.75rem 1.25rem;
+    }
+</style>

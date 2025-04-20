@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "BPx2yPIMw4Ub0qWLVFlsmEu5AsfnsGvtr3Lwf266FZ0=",
+  "Source": "CarRental",
+  "BasePath": "_content/CarRental",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarRental\\wwwroot",
+      "Source": "CarRental",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarRental.styles.css",
+      "SourceId": "CarRental",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "CarRental#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "nm6rfmlouj",
+      "Integrity": "sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarRental.styles.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css",
+      "SourceId": "CarRental",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "CarRental#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "nm6rfmlouj",
+      "Integrity": "sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2wlpouf80",
+      "Integrity": "YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\site.css",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2m7dz7b1i3",
+      "Integrity": "ytb2GlWuwV8zMItA7q4Ogwt8ACmLwaAvnrePhOKfeVw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\style.css",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nmjexxj2p4",
+      "Integrity": "IRDVzkRqrE3pM5jdNeiR8MD8XX09msFuk2XL+kuMJM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\favicon.ico",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "img/45a0ae58-6c7d-4892-b3c5-f84b1eb153f0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ev7rrup2zy",
+      "Integrity": "mqNW871Ez+heV0kEASn+uaSl27vFEmNiFHAE59MSQuw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\FordFocus.jpg",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "img/FordFocus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r553rt8fjr",
+      "Integrity": "3wt4wHc1bK4sAO82HQd72EFg8frVmCgGYhlhjzjWlDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\FordFocus.jpg"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\Tesla.jpg",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "img/Tesla#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxcineysve",
+      "Integrity": "B6Hl4scn4V5ta/fOVisPImewsCXBz/LY3sXUnSPj5g8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Tesla.jpg"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\bootstrap.min.js",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8so7gk97h",
+      "Integrity": "CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\site.js",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bnkqy1y0r8",
+      "Integrity": "BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z5jyisouil",
+      "Integrity": "eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "CarRental",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\",
+      "BasePath": "_content/CarRental",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8so7gk97h",
+      "Integrity": "CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CarRental.bundle.scp.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0="
+        }
+      ]
+    },
+    {
+      "Route": "CarRental.nm6rfmlouj.bundle.scp.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nm6rfmlouj"
+        },
+        {
+          "Name": "label",
+          "Value": "CarRental.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0="
+        }
+      ]
+    },
+    {
+      "Route": "CarRental.nm6rfmlouj.styles.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarRental.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nm6rfmlouj"
+        },
+        {
+          "Name": "label",
+          "Value": "CarRental.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0="
+        }
+      ]
+    },
+    {
+      "Route": "CarRental.styles.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CarRental.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sc6FxlhWaMX9jZ82xAPLVahMeisKo0pPuJGjE++VR/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.o2wlpouf80.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2wlpouf80"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.2m7dz7b1i3.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytb2GlWuwV8zMItA7q4Ogwt8ACmLwaAvnrePhOKfeVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 17:45:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m7dz7b1i3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytb2GlWuwV8zMItA7q4Ogwt8ACmLwaAvnrePhOKfeVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytb2GlWuwV8zMItA7q4Ogwt8ACmLwaAvnrePhOKfeVw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 17:45:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytb2GlWuwV8zMItA7q4Ogwt8ACmLwaAvnrePhOKfeVw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRDVzkRqrE3pM5jdNeiR8MD8XX09msFuk2XL+kuMJM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 18:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRDVzkRqrE3pM5jdNeiR8MD8XX09msFuk2XL+kuMJM0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.nmjexxj2p4.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRDVzkRqrE3pM5jdNeiR8MD8XX09msFuk2XL+kuMJM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 18:09:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nmjexxj2p4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRDVzkRqrE3pM5jdNeiR8MD8XX09msFuk2XL+kuMJM0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 08:14:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 08:14:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "img/45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.ev7rrup2zy.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mqNW871Ez+heV0kEASn+uaSl27vFEmNiFHAE59MSQuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 17:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev7rrup2zy"
+        },
+        {
+          "Name": "label",
+          "Value": "img/45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mqNW871Ez+heV0kEASn+uaSl27vFEmNiFHAE59MSQuw="
+        }
+      ]
+    },
+    {
+      "Route": "img/45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mqNW871Ez+heV0kEASn+uaSl27vFEmNiFHAE59MSQuw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 17:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mqNW871Ez+heV0kEASn+uaSl27vFEmNiFHAE59MSQuw="
+        }
+      ]
+    },
+    {
+      "Route": "img/FordFocus.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\FordFocus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3wt4wHc1bK4sAO82HQd72EFg8frVmCgGYhlhjzjWlDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 20:58:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3wt4wHc1bK4sAO82HQd72EFg8frVmCgGYhlhjzjWlDs="
+        }
+      ]
+    },
+    {
+      "Route": "img/FordFocus.r553rt8fjr.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\FordFocus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3wt4wHc1bK4sAO82HQd72EFg8frVmCgGYhlhjzjWlDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 20:58:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r553rt8fjr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/FordFocus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3wt4wHc1bK4sAO82HQd72EFg8frVmCgGYhlhjzjWlDs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Tesla.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\Tesla.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B6Hl4scn4V5ta/fOVisPImewsCXBz/LY3sXUnSPj5g8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B6Hl4scn4V5ta/fOVisPImewsCXBz/LY3sXUnSPj5g8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Tesla.zxcineysve.jpg",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\Tesla.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B6Hl4scn4V5ta/fOVisPImewsCXBz/LY3sXUnSPj5g8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxcineysve"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Tesla.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B6Hl4scn4V5ta/fOVisPImewsCXBz/LY3sXUnSPj5g8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.m8so7gk97h.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8so7gk97h"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.bnkqy1y0r8.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bnkqy1y0r8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BxFAw9RUJ1E4NycpKEjCNDeoSvr4RPHixdBq5wDnkeY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 09:34:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.z5jyisouil.css",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 09:34:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z5jyisouil"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.m8so7gk97h.js",
+      "AssetFile": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Nov 2023 13:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8so7gk97h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+        }
+      ]
+    }
+  ]
+}

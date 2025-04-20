@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarRental.nm6rfmlouj.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg",
+      "PackagePath": "staticwebassets\\img\\45a0ae58-6c7d-4892-b3c5-f84b1eb153f0.jpg"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\FordFocus.jpg",
+      "PackagePath": "staticwebassets\\img\\FordFocus.jpg"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\img\\Tesla.jpg",
+      "PackagePath": "staticwebassets\\img\\Tesla.jpg"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\!сессия ВЕСНА 2025\\СПП_Курсовая\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CarRental.props",
+      "PackagePath": "build\\CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CarRental.props",
+      "PackagePath": "buildMultiTargeting\\CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CarRental.props",
+      "PackagePath": "buildTransitive\\CarRental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

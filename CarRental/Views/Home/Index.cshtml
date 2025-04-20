@@ -1,0 +1,39 @@
+﻿@model List<CarRental.Models.Car>
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Доступные автомобили</h1>
+
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var car in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow">
+                        <img src="@car.Img" class="card-img-top" alt="@car.Name" style="height: 200px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title">@car.Name</h5>
+                            <p class="card-text">@car.ShortDesc</p>
+                            <p class="card-text"><strong>Цена:</strong> @car.Price.ToString("N2") руб./сутки</p>
+                            @if (car.IsFavorite)
+                            {
+                                <span class="badge bg-warning text-dark">Избранное</span>
+                            }
+                            <a asp-controller="Cars" asp-action="Details" asp-route-id="@car.Id" class="btn btn-primary w-100 mt-2">Арендовать</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p class="text-center">Нет доступных автомобилей.</p>
+            </div>
+        }
+    </div>
+</div>

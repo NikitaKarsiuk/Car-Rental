@@ -1,0 +1,68 @@
+﻿@model CarRental.Models.Order
+
+@{
+    ViewData["Title"] = "Оставить заявку";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Оставить заявку</h1>
+
+    <form asp-action="Create" method="post">
+        <input type="hidden" asp-for="CarId" />
+        <input type="hidden" asp-for="UserId" />
+
+        <div class="mb-3">
+            <label class="form-label">Название машины</label>
+            <input type="text" class="form-control" value="@(ViewBag.CarName ?? "Нет данных")" readonly>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Стоимость аренды (руб./сутки)</label>
+            <input type="text" class="form-control" value="@(ViewBag.CarPrice?.ToString("N2") ?? "0.00")" readonly>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DateFrom" class="form-label">Дата начала аренды</label>
+            <input asp-for="DateFrom" class="form-control" type="date" required>
+            <span asp-validation-for="DateFrom" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DateTo" class="form-label">Дата окончания аренды</label>
+            <input asp-for="DateTo" class="form-control" type="date" required>
+            <span asp-validation-for="DateTo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Итоговая сумма</label>
+            <input type="text" class="form-control" id="totalCost" readonly>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Отправить заявку</button>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        function calculateTotalCost() {
+            const pricePerDay = @ViewBag.CarPrice; 
+            const dateFrom = new Date(document.getElementById("DateFrom").value);
+            const dateTo = new Date(document.getElementById("DateTo").value);
+
+            if (dateFrom && dateTo && dateTo > dateFrom) {
+                const timeDiff = dateTo - dateFrom;
+                const daysDiff = Math.ceil(timeDiff / (1000 * 60 * 60 * 24)); 
+                const totalCost = pricePerDay * daysDiff;
+                document.getElementById("totalCost").value = totalCost.toFixed(2) + " руб.";
+            } else {
+                document.getElementById("totalCost").value = "0.00 руб.";
+            }
+        }
+
+        document.getElementById("DateFrom").addEventListener("change", calculateTotalCost);
+        document.getElementById("DateTo").addEventListener("change", calculateTotalCost);
+
+        window.onload = calculateTotalCost;
+    </script>
+}
